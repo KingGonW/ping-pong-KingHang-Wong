@@ -4,9 +4,10 @@ This project is aiming to return String "pong" when open "localhost:8080/ping"
 1. Go to website https://github.com/KingGonW/ping-pong-KingHang-Wong
 2. Clone or Download this GitHub repositories to your local machine
 3. This project used JDK 18 Oracle OpenJDK and Java 17
-4. Go to [file](src/main/java/com/example/pingpongkinghangwong/PingPongKingHangWongApplication.java) and run the Application
-5. Click this website http://localhost:8080/ping
-6. The website should display **pong** as a result
+4. Open the whole project in your editor
+5. Go to [file](src/main/java/com/example/pingpongkinghangwong/PingPongKingHangWongApplication.java) and run the Application
+6. Click this website http://localhost:8080/ping
+7. The website should display **pong** as a result
 
 ## Code 
 
