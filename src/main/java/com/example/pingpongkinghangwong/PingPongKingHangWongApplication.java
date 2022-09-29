@@ -14,7 +14,7 @@ public class PingPongKingHangWongApplication {
 	}
 	@GetMapping("/ping")
 	public String PingPong(){
-		return String.format("pong");
+		return "pong";
 	}
 
 }
